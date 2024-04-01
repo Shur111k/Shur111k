@@ -1,6 +1,6 @@
 ### Hi 👋 
 
-Study:school:: 3rd year student, Kyiv Polytechnic Institute
+Study:school:: 4rd year student, Kyiv Polytechnic Institute
 
 Specialty: Technical cybernetics:space_invader:
 
