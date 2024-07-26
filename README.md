@@ -1,10 +1,10 @@
 ### Hi 👋 
 
-Study:school:: 4rd year student, Kyiv Polytechnic Institute
+Study:school:: bachelor, Kyiv Polytechnic Institute
 
 Specialty: Technical cybernetics:space_invader:
 
-Learning: Web Development, Java , GO , PHP
+Learning: Web Development, Java , GO , С#
 
 Hobby: coding , кarate:kimono: , gaming:video_game:, beer tasting:beers:.
 
