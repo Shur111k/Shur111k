@@ -1,11 +1,11 @@
 ### Hi 👋 
 
-Study:school:: bachelor, Kyiv Polytechnic Institute
+Study 🏫 : bachelor, Kyiv Polytechnic Institute
 
-Specialty: Technical cybernetics:space_invader:
+Specialty: Technical cybernetics 👾
 
 Learning: Web Development, Java , GO , С#
 
-Hobby: coding , кarate:kimono: , gaming:video_game:, beer tasting:beers:.
+Hobby: coding , кarate 🥋 , gaming 🎮, beer tasting 🍺.
 
-:sparkles: Anime :sparkles: is one of the best things that mankind has ever done :japanese_castle:
+Anime is one of the best things that mankind has ever done 🏯🎎
